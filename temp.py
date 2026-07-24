@@ -10,3 +10,4 @@ f_temp = celsius_to_fahrenheit(c_temp)
 print(f"{c_temp}°C is equal to {f_temp}°F")
 
 #output: 30.0°C is equal to 86.0°F
+
